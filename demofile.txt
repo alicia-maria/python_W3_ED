@@ -1,0 +1,7 @@
+"Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!",
+
+# how to add this to add dummy file to terminal 
+ - using in terminal the following code 
+ - cat >> file.txt 
