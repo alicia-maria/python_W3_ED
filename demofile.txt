@@ -4,4 +4,4 @@ Good Luck!",
 
 # how to add this to add dummy file to terminal 
  - using in terminal the following code 
- - cat >> file.txt 
+ - cat >> file.txt Now the file has more content!Now the file has more content!
