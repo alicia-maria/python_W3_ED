@@ -4,4 +4,7 @@ Good Luck!",
 
 # how to add this to add dummy file to terminal 
  - using in terminal the following code 
- - cat >> file.txt Now the file has more content!Now the file has more content!
+ - cat >> file.txt Now the file has more content!  Now the file has more content!
+
+# Command line codes 
+# command line > python --version , allows you to check if your if python is insalled to your system 
